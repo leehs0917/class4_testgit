@@ -7,6 +7,7 @@ public class TestGit {
 		int i = 28;
 		System.out.println("나이 = "+i);
 		int j = 100;
+		System.out.println("점수 : "+j);
 	}//main
 
 }//class
