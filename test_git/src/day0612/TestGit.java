@@ -6,6 +6,7 @@ public class TestGit {
 		System.out.println("±êÇé¿¬½À");
 		int i = 28;
 		System.out.println("³ªÀÌ = "+i);
+		int j = 100;
 	}//main
 
 }//class
